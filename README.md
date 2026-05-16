@@ -1,3 +1,3 @@
 # Curso Databricks e PySpark 
 
-Repositório para armazenar meus notebooks desenovlvido no curso sobre Databricks e Pyspark.
+Repositório para armazenar meus notebooks desenvolvidos no curso sobre Databricks e Pyspark.
